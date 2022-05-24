@@ -9,10 +9,8 @@
 ### Connect with me:
 
 [![SoftUni](https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png)](https://softuni.bg/users/profile/show?username=Deyan2306)
-[![SoftUni](https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png)](https://softuni.bg/users/profile/show?username=Deyan2306)
 &nbsp;&nbsp;
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/deyan-sirakov-b6a421237/)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png))](https://www.linkedin.com/in/deyan-sirakov-b6a421237/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
