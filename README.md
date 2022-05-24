@@ -16,4 +16,7 @@
 
 ### Statistics 
 [![Deyan2306's github stats](https://github-readme-stats.vercel.app/api?username=Deyan2306&show_icons=true&theme=radical)](https://github.com/Deyan2306/github-readme-stats)
+
+<br>
+
 [![Deyan2306's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyan2306&show_icons=true&theme=radical)](https://github.com/Deyan2306/github-readme-stats)
