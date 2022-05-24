@@ -1,4 +1,4 @@
-# Hello there, I'm Deyan2306 👋 
+# Hello there, I'm Deyan Sirakov 👋 
 ## I'm a passionate Java, JavaScript and C++ Student and  Developer from Bulgaria!!
 
 - 🌱 I’m currently learning more and more.
