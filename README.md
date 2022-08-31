@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning more and more.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Master Java :)
+- 🥅 2023 Goals: Get CEH certification
 - ⚡ Fun fact: I love to draw and design
 
 ### Connect with me:
