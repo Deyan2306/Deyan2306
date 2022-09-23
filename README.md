@@ -1,5 +1,5 @@
 # Hello there, I'm Deyan Sirakov 👋 
-## I'm a passionate C#, Java, Python, PHP, JavaScript, C++, C and ASM Student and Developer from Bulgaria!
+## I'm a cool guy from Bulgaria!
 
 - 🌱 I’m currently learning more and more.
 - 👯 I’m looking to collaborate with other developers
