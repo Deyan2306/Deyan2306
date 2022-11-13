@@ -1,5 +1,7 @@
 # Hello there, I'm Deyan Sirakov 👋 
-Some random recursion without any context.
+
+## Some random recursion without any context.
+<br/>
 <img src="https://64.media.tumblr.com/tumblr_mdq4zdIq7u1rx5st2o1_500.gif" alt="some random cat doing recursion, haha">
 
 ### More 'bout me:
@@ -12,5 +14,3 @@ My name is Deyan Sirakov. I started coding back in 2016-17 when I started experi
 ### Languages and Frameworks:
 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png" alt="java" width="40" height="40"/> </a>
-
-I love cats, btw
