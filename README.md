@@ -13,5 +13,3 @@
 ### Languages and Frameworks:
 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png" alt="java" width="40" height="40"/> </a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Deyan2306)
