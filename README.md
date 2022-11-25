@@ -12,4 +12,4 @@
 
 ### Languages and Frameworks:
 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png" alt="java" width="40" height="40"/> </a> <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png" alt="junit" width="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png" alt="java" width="40" height="40"/> </a> <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40"/> </a>
