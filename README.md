@@ -1,3 +1,2 @@
-##root@d4rkc47~# whoami
-Hi, I'm Deyan. 
-I love doing all kind of crazy stuff using my knowage on computer science :)
+# root@d4rkc47~# whoami
+I'm a kid, who likes doing crazy stuff using his computer science knowledge. C/C++/Java developer, System administrator, Ethical hacker, Cloud Engeneer, etc. I love learning new stuff.
