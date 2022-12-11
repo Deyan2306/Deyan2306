@@ -1,2 +1,2 @@
 # root@d4rkc47~# whoami
-I'm just a regular 17 year old kid, who likes to do crazy stuff using his computer science knowledge. C/C++/Java developer, System administrator, Ethical hacker, Cloud Engeneer, etc. I love learning new stuff.
+I'm just a regular 17 year old kid, who likes to do crazy stuff using his computer science knowledge. I have a lot of knowage on subjects like programming, cybersecurity, cloud engeneering, system administration and more.
