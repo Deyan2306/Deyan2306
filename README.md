@@ -5,4 +5,3 @@ Just a regular kid, interested in computer science, with a lot of knowage on sub
 Vim or Emacs 
 
 -------------------------------
-### I use Arch, btw
