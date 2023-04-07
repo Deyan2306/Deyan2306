@@ -1,1 +1,1 @@
-<img align='right' src="https://media.tenor.com/qxFvRgBwjV0AAAAM/ruin-game.gif"/>
+<img src="https://media.tenor.com/qxFvRgBwjV0AAAAM/ruin-game.gif"/>
