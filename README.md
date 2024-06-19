@@ -1,28 +1,26 @@
 ### FE
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![React Router](https://img.shields.io/badge/React_Router-blueviolet?logo=react-router)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=react-router&labelColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&labelColor=black)
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-purple?logo=c-sharp)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Java](https://img.shields.io/badge/Java-%23FF5722?style=for-the-badge&logo=java&labelColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=black)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&labelColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 
 ### BE
-![Spring](https://img.shields.io/badge/Spring-brightgreen?logo=spring)
-![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&labelColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23547CFF?style=for-the-badge&logo=hibernate&labelColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&labelColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&labelColor=black)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-
-### ORM
-![Hibernate](https://img.shields.io/badge/Hibernate-lightblue?logo=hibernate)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=for-the-badge&logo=mongodb&labelColor=black)
 
 ### DevSecOps
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-red?logo=prometheus)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&labelColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&labelColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&labelColor=black)
