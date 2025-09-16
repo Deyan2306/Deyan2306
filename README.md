@@ -14,6 +14,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&labelColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&labelColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&labelColor=black)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge&logo=auth0&labelColor=black)
+![Arcjet](https://img.shields.io/badge/Arcjet-black?style=for-the-badge&logo=shield&labelColor=black)
 
 ---
 
@@ -23,6 +25,7 @@
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&labelColor=black)
 ![Scala](https://img.shields.io/badge/Scala-black?style=for-the-badge&logo=scala&labelColor=black)
 
 ---
@@ -49,3 +52,4 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&labelColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&labelColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus&labelColor=black)
+![pnpm](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm&labelColor=black)
