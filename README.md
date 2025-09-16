@@ -4,6 +4,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&labelColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router&labelColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=thymeleaf&labelColor=black)
 
